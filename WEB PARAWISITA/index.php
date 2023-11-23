@@ -238,7 +238,7 @@ https://templatemo.com/tm-564-plot-listing
                                                                 <p>Di Indonesia, beberapa gunung memiliki pariwisata
                                                                     yang sangat populer dan banyak dikunjungi oleh
                                                                     wisatawan. Salah satu gunung yang memiliki
-                                                                    Pariwisata yang sangat ramai adalah Gunung Bromo di
+                                                                    pariwisata yang sangat ramai adalah Gunung Bromo di
                                                                     Jawa Timur.</p>
                                                                 <div class="main-white-button"><a href="#"><i
                                                                             class="fa fa-eye"></i> Discover More</a>
