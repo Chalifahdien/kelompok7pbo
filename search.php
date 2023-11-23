@@ -29,6 +29,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <h1>Hasil Pencarian</h1>
+    
+    <!-- Form for search -->
+    <form action="search.php" method="post">
+        <label for="search">Cari Nama Gunung:</label>
+        <input type="text" name="search" id="search" placeholder="Masukkan nama gunung">
+        <input type="submit" value="Cari">
+    </form>
 
     <!-- Form for search -->
     <form action="search.php" method="post">
