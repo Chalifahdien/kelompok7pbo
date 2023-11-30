@@ -19,4 +19,3 @@ Anggota =
 11. Febri Haerani
 12. Muhammad Iqbal Bustang Panre
 13. Muh Fahreza Aryanta
-
