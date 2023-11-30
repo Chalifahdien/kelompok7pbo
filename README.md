@@ -2,34 +2,7 @@
 
 Website Parawisata
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-1.  dkdksd
-2.  fnsfnsfn
-3.  umar faruq manek
-4.  alif
-5.  desii
-6.  iqbal
-7.  Rafly
-=======
-Ketua = Chalifahdien Hamud
-<<<<<<< HEAD
-Anggota = 1. Dwi Pratiwi 
-          2. Umar Faruq Manek 
-          3. Wa Ode Asriyani
-          4. Rafli Ahmad
-          5. Nuzul Gusti
-          6. Nur Hafiizah
-          7. Muh Irhan Israwal
-          8. Harnelia
-          9. Dela Puspita Helmi
-          10. Suci Wulandari
-          11. Febri Haerani
-        
-=======
-=======
 # Ketua = Chalifahdien Hamud
->>>>>>> 1a9df8410d4ba7a149be9b45da63c0ce295d604f
 
 Anggota =
 
@@ -37,14 +10,14 @@ Anggota =
 2. Umar Faruq Manek
 3. Wa Ode Asriyani
 4. Rafli Ahmad
-5. Nuzul Gusti
+5. Nuzul Gusti Tiara Fitri
 6. Nur Hafiizah
 7. Muh Irhan Israwal
 8. Harnelia
 9. Dela Puspita Helmi
 10. Suci Wulandari
 11. Febri Haerani
-12. iqbal
+12. Muhammad Iqbal Bustang Panre
 13. Muh Fahreza Aryanta
 
 <<<<<<< HEAD
