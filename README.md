@@ -2,7 +2,7 @@
 
 Website Parawisata
 
-# Ketua = Chalifahdien Hamud (E1E122047)
+# Ketua = Chalifahdien Hamud
 
 Anggota =
 
@@ -10,7 +10,7 @@ Anggota =
 2. Umar Faruq Manek
 3. Wa Ode Asriyani
 4. Rafli Ahmad
-5. Nuzul Gusti Tiara Fitri
+5. Nuzul Gusti Tiara Fitri_E1E122073
 6. Nur Hafiizah
 7. Muh Irhan Israwal
 8. Harnelia
@@ -20,4 +20,3 @@ Anggota =
 12. Muhammad Iqbal Bustang Panre
 13. Muh Fahreza Aryanta
 
-> > > > > > > 30708f0dd1763adb406db679fefd0ac452b0b1e6
