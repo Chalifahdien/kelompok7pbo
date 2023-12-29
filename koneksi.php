@@ -1,5 +1,3 @@
 <?php
 
-$conn = mysqli_connect("localhost","root","","parawisata");
-
-?>
+$conn = mysqli_connect("localhost", "root", "", "db_pariwisata");
